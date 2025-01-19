@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-<a href="https://daacuaa.github.io/Awesome-Love-Code/Web/001/">这就是爱情</a>
+<a href="https://daacuaa.github.io/Awesome-Love-Code/Web/001/">点击这里</a>
